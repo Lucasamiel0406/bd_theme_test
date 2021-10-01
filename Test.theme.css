@@ -1,0 +1,9 @@
+/**
+    * @name Test
+    * @description Test
+*/
+@import url("test");
+
+:root {
+    --color: RED;
+}
